@@ -5,7 +5,6 @@ import time
 import requests
 import pytz
 
-from playsound import playsound
 from PIL import Image, ImageTk
 from tkinter import ttk,messagebox,PhotoImage
 from geopy.geocoders import Nominatim
